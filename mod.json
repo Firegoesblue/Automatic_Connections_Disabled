@@ -1,0 +1,6 @@
+name: "auto_connect= False"
+displayName: "Auto Connections bye bye!"
+author: "Eldoofus, extractrd by Bbsx"
+description: "[lime]disables automatic power nodes. [white]It does not affect gameplay. "
+version: "1.01"
+minGameVersion: "105"
